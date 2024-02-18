@@ -1,0 +1,2142 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 7442px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #e7d5fa;
+  width: 1440px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.store {
+  color: #a675d9;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 677px;
+  top: 135px;
+  width: 105px;
+  height: 33px;
+}
+.holidaybanner-1-1400-x-1 {
+  width: 1440px;
+  height: 616px;
+  position: absolute;
+  left: 0px;
+  top: 193px;
+  object-fit: cover;
+}
+.search {
+  width: 32px;
+  height: 31px;
+  position: absolute;
+  left: 1262px;
+  top: 122px;
+  overflow: hidden;
+}
+.iconly-bulk-search {
+  height: auto;
+  position: absolute;
+  left: 2.67px;
+  top: 2.58px;
+  overflow: visible;
+}
+.profile {
+  width: 33px;
+  height: 32px;
+  position: absolute;
+  left: 1311px;
+  top: 121px;
+  overflow: hidden;
+}
+.iconly-bold-profile {
+  height: auto;
+  position: absolute;
+  left: 5.5px;
+  top: 2.67px;
+  overflow: visible;
+}
+.mini-spark {
+  color: #a675d9;
+  text-align: left;
+  font-family: "Inter-BlackItalic", sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  font-style: italic;
+  position: absolute;
+  left: 626px;
+  top: 92px;
+}
+.rectangle-2 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0);
+  border-width: 5px;
+  width: 147px;
+  height: 56px;
+  position: absolute;
+  left: 647px;
+  top: 729px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.shop {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  position: absolute;
+  left: 676px;
+  top: 734px;
+  width: 125px;
+  height: 19px;
+}
+.trending-on-reels {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 28px;
+  font-weight: 200;
+  position: absolute;
+  left: 573px;
+  top: 910px;
+}
+.bow-studs {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 158px;
+  top: 1330px;
+  width: 104px;
+  height: 19px;
+}
+.rs-849-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 168px;
+  top: 1359px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-3 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 115px;
+  top: 1385px;
+}
+.rectangle-4 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 67px;
+  top: 1012px;
+  object-fit: cover;
+}
+.select-option {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 1387px;
+  width: 155px;
+  height: 35px;
+}
+.marquice-hanchain-bracelet {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 429px;
+  top: 1330px;
+  width: 284px;
+  height: 19px;
+}
+.rs-1000-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 515px;
+  top: 1360px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-5 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 462px;
+  top: 1386px;
+}
+.rectangle-6 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 412px;
+  top: 1012px;
+  object-fit: cover;
+}
+.select-option2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 482px;
+  top: 1388px;
+  width: 155px;
+  height: 35px;
+}
+.marley-necklace {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 821px;
+  top: 1328px;
+  width: 183px;
+  height: 19px;
+}
+.rs-860-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 850px;
+  top: 1357px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-7 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 797px;
+  top: 1383px;
+}
+.rectangle-8 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 749px;
+  top: 1010px;
+  object-fit: cover;
+}
+.select-option3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 817px;
+  top: 1385px;
+  width: 155px;
+  height: 35px;
+}
+.feminine-neklace {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1156px;
+  top: 1330px;
+  width: 159px;
+  height: 19px;
+}
+.rs-1128-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1186px;
+  top: 1359px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-9 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 1133px;
+  top: 1385px;
+}
+.rectangle-10 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 1085px;
+  top: 1011px;
+  object-fit: cover;
+}
+.select-option4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1153px;
+  top: 1387px;
+  width: 155px;
+  height: 35px;
+}
+.rs-849-002 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 168px;
+  top: 2017px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-11 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 115px;
+  top: 2043px;
+}
+.rectangle-12 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 67px;
+  top: 1670px;
+  object-fit: cover;
+}
+.select-option5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 2045px;
+  width: 155px;
+  height: 35px;
+}
+.rs-849-003 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 513px;
+  top: 2017px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-13 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 460px;
+  top: 2043px;
+}
+.rectangle-14 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 412px;
+  top: 1670px;
+  object-fit: cover;
+}
+.select-option6 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 480px;
+  top: 2045px;
+  width: 155px;
+  height: 35px;
+}
+.rs-849-004 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 850px;
+  top: 2014px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-15 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 797px;
+  top: 2041px;
+}
+.rectangle-16 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 749px;
+  top: 1668px;
+  object-fit: cover;
+}
+.select-option7 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 817px;
+  top: 2043px;
+  width: 155px;
+  height: 35px;
+}
+.rs-849-005 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1186px;
+  top: 2017px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-17 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 1133px;
+  top: 2043px;
+}
+.rectangle-18 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 1085px;
+  top: 1669px;
+  object-fit: cover;
+}
+._1-4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 643px;
+  top: 1480px;
+}
+._1-42 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 639px;
+  top: 2170px;
+}
+.select-option8 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1153px;
+  top: 2045px;
+  width: 155px;
+  height: 35px;
+}
+.new-arrivals {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 666px;
+  top: 1575px;
+}
+.cameron-ring {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 138px;
+  top: 2948px;
+  width: 140px;
+  height: 19px;
+}
+.rs-1199-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 168px;
+  top: 2977px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-19 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 115px;
+  top: 3003px;
+}
+.rectangle-20 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 67px;
+  top: 2630px;
+  object-fit: cover;
+}
+.select-option9 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 3005px;
+  width: 155px;
+  height: 35px;
+}
+.vintage-ring {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 503px;
+  top: 2948px;
+  width: 140px;
+  height: 19px;
+}
+.rs-500-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 513px;
+  top: 2977px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-21 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 460px;
+  top: 3003px;
+}
+.rectangle-22 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 412px;
+  top: 2630px;
+  object-fit: cover;
+}
+.select-option10 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 480px;
+  top: 3005px;
+  width: 155px;
+  height: 35px;
+}
+.rectangle-35 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 130px;
+  height: 35px;
+  position: absolute;
+  left: 669px;
+  top: 3146px;
+}
+.view-all {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 689px;
+  top: 3149px;
+  width: 155px;
+  height: 35px;
+}
+.rectangle-36 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 130px;
+  height: 35px;
+  position: absolute;
+  left: 683px;
+  top: 3917px;
+}
+.view-all2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 703px;
+  top: 3920px;
+  width: 155px;
+  height: 35px;
+}
+.glass-band {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 844px;
+  top: 2946px;
+  width: 150px;
+  height: 19px;
+}
+.rs-750-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 850px;
+  top: 2975px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-23 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 797px;
+  top: 3001px;
+}
+.rectangle-24 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 749px;
+  top: 2628px;
+  object-fit: cover;
+}
+.select-option11 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 817px;
+  top: 3003px;
+  width: 155px;
+  height: 35px;
+}
+.serve-ring-set {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1151px;
+  top: 2948px;
+  width: 177px;
+  height: 19px;
+}
+.gavin-bracelet {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 145px;
+  top: 1985px;
+  width: 140px;
+  height: 19px;
+}
+.karma-ring {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 510px;
+  top: 1985px;
+  width: 104px;
+  height: 19px;
+}
+.elinina-chain {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 839px;
+  top: 1983px;
+  width: 150px;
+  height: 19px;
+}
+.lorenzo-necklace {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1158px;
+  top: 1985px;
+  width: 177px;
+  height: 19px;
+}
+.rs-2000-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1186px;
+  top: 2977px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-25 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 1133px;
+  top: 3003px;
+}
+.rectangle-26 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 1085px;
+  top: 2629px;
+  object-fit: cover;
+}
+._1-15 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 625px;
+  top: 3098px;
+}
+.select-option12 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1153px;
+  top: 3005px;
+  width: 155px;
+  height: 35px;
+}
+.rings {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 694px;
+  top: 2535px;
+}
+.curse-earring {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 138px;
+  top: 3677px;
+  width: 140px;
+  height: 19px;
+}
+.rs-500-002 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 168px;
+  top: 3706px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-27 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 115px;
+  top: 3732px;
+}
+.rectangle-28 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 67px;
+  top: 3359px;
+  object-fit: cover;
+}
+.select-option13 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 3734px;
+  width: 155px;
+  height: 35px;
+}
+.wing-earrings {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 503px;
+  top: 3677px;
+  width: 140px;
+  height: 19px;
+}
+.rs-720-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 513px;
+  top: 3706px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-29 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 460px;
+  top: 3732px;
+}
+.rectangle-30 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 412px;
+  top: 3359px;
+  object-fit: cover;
+}
+.select-option14 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 480px;
+  top: 3734px;
+  width: 155px;
+  height: 35px;
+}
+.hexagonal-earrings {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 804px;
+  top: 3675px;
+  width: 201px;
+  height: 19px;
+}
+.rs-880-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 850px;
+  top: 3704px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-31 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 797px;
+  top: 3730px;
+}
+.rectangle-32 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 749px;
+  top: 3357px;
+  object-fit: cover;
+}
+.select-option15 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 817px;
+  top: 3732px;
+  width: 155px;
+  height: 35px;
+}
+.tuna-earrings {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1151px;
+  top: 3677px;
+  width: 177px;
+  height: 19px;
+}
+.rs-640-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1186px;
+  top: 3706px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-33 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 1133px;
+  top: 3732px;
+}
+.rectangle-34 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 1085px;
+  top: 3358px;
+  object-fit: cover;
+}
+._1-8 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 639px;
+  top: 3859px;
+}
+.select-option16 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1153px;
+  top: 3734px;
+  width: 155px;
+  height: 35px;
+}
+.earrings {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 664px;
+  top: 3264px;
+}
+.rectangle-37 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 130px;
+  height: 35px;
+  position: absolute;
+  left: 688px;
+  top: 4671px;
+}
+.view-all3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 708px;
+  top: 4674px;
+  width: 155px;
+  height: 35px;
+}
+.pear-necklace {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 138px;
+  top: 4431px;
+  width: 140px;
+  height: 19px;
+}
+.rs-400-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 168px;
+  top: 4460px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-38 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 115px;
+  top: 4486px;
+}
+.rectangle-39 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 67px;
+  top: 4113px;
+  object-fit: cover;
+}
+.select-option17 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 4488px;
+  width: 155px;
+  height: 35px;
+}
+.blessed-necklace {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 484px;
+  top: 4429px;
+  width: 183px;
+  height: 19px;
+}
+.rs-800-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 526px;
+  top: 4460px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-40 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 473px;
+  top: 4486px;
+}
+.rectangle-41 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 412px;
+  top: 4113px;
+  object-fit: cover;
+}
+.select-option18 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 493px;
+  top: 4488px;
+  width: 155px;
+  height: 35px;
+}
+.sydney-necklace {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 804px;
+  top: 4429px;
+  width: 201px;
+  height: 19px;
+}
+.rs-990-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 850px;
+  top: 4458px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-42 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 797px;
+  top: 4484px;
+}
+.rectangle-43 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 749px;
+  top: 4111px;
+  object-fit: cover;
+}
+.select-option19 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 817px;
+  top: 4486px;
+  width: 155px;
+  height: 35px;
+}
+.layered-necklace {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1151px;
+  top: 4431px;
+  width: 177px;
+  height: 19px;
+}
+.rs-800-002 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1186px;
+  top: 4460px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-44 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 1133px;
+  top: 4486px;
+}
+.rectangle-45 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 1085px;
+  top: 4112px;
+  object-fit: cover;
+}
+._1-82 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 642px;
+  top: 4613px;
+}
+.select-option20 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1153px;
+  top: 4488px;
+  width: 155px;
+  height: 35px;
+}
+.necklace {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 678px;
+  top: 4018px;
+}
+.rectangle-46 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 130px;
+  height: 35px;
+  position: absolute;
+  left: 682px;
+  top: 5425px;
+}
+.view-all4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 702px;
+  top: 5428px;
+  width: 155px;
+  height: 35px;
+}
+.frey-bracelet {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 143px;
+  top: 5185px;
+  width: 140px;
+  height: 19px;
+}
+.rs-450-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 173px;
+  top: 5214px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-47 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 120px;
+  top: 5240px;
+}
+.rectangle-48 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 72px;
+  top: 4867px;
+  object-fit: cover;
+}
+.rectangle-55 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.3px;
+  width: 681px;
+  height: 645px;
+  position: absolute;
+  left: 115px;
+  top: 5737px;
+  object-fit: cover;
+}
+.select-option21 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 140px;
+  top: 5242px;
+  width: 155px;
+  height: 35px;
+}
+.ozak-bracelet {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 489px;
+  top: 5183px;
+  width: 183px;
+  height: 19px;
+}
+.rs-900-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 531px;
+  top: 5214px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-49 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 478px;
+  top: 5240px;
+}
+.rectangle-50 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 417px;
+  top: 4867px;
+  object-fit: cover;
+}
+.select-option22 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 498px;
+  top: 5242px;
+  width: 155px;
+  height: 35px;
+}
+.gavin-bracelet2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 809px;
+  top: 5183px;
+  width: 201px;
+  height: 19px;
+}
+.rs-1200-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 855px;
+  top: 5212px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-51 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 802px;
+  top: 5238px;
+}
+.rectangle-52 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 754px;
+  top: 4865px;
+  object-fit: cover;
+}
+.select-option23 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 822px;
+  top: 5240px;
+  width: 155px;
+  height: 35px;
+}
+.elegance-bracelet {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1156px;
+  top: 5185px;
+  width: 177px;
+  height: 19px;
+}
+.rs-790-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 1191px;
+  top: 5214px;
+  width: 104px;
+  height: 19px;
+}
+.rectangle-53 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 1138px;
+  top: 5240px;
+}
+.rectangle-54 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 1090px;
+  top: 4866px;
+  object-fit: cover;
+}
+._1-83 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 634px;
+  top: 5367px;
+}
+.select-option24 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1158px;
+  top: 5242px;
+  width: 155px;
+  height: 35px;
+}
+.rectangle-63 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 120px;
+  top: 5240px;
+}
+.rectangle-64 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 72px;
+  top: 4867px;
+  object-fit: cover;
+}
+.rectangle-65 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 478px;
+  top: 5240px;
+}
+.rectangle-66 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 417px;
+  top: 4867px;
+  object-fit: cover;
+}
+.rectangle-67 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 802px;
+  top: 5238px;
+}
+.rectangle-68 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 754px;
+  top: 4865px;
+  object-fit: cover;
+}
+.rectangle-69 {
+  background: #e7d5fa;
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 1138px;
+  top: 5240px;
+}
+.rectangle-70 {
+  width: 289px;
+  height: 282px;
+  position: absolute;
+  left: 1090px;
+  top: 4866px;
+  object-fit: cover;
+}
+.rectangle-58 {
+  background: rgba(237, 224, 250, 0.48);
+  border-radius: 60px;
+  width: 183px;
+  height: 35px;
+  position: absolute;
+  left: 974px;
+  top: 6118px;
+}
+.add-to-cart {
+  color: #a675d9;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1023px;
+  top: 6127px;
+  width: 155px;
+  height: 35px;
+}
+.buy-it-now {
+  color: #a675d9;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1074px;
+  top: 6184px;
+  width: 155px;
+  height: 35px;
+}
+.bracelet {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 683px;
+  top: 4772px;
+}
+.product-of-the-week {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 483px;
+  top: 5561px;
+}
+.customer-reviews {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 620px;
+  top: 2269px;
+}
+.the-ethereal-elegance-necklace-is-a-radiant-masterpiece-seamlessly-blending-exquisite-design-impeccable-craftsmanship-and-stunning-gemstones-its-versatility-and-comfort-make-it-a-timeless-symbol-of-refined-taste-and-enduring-beauty-well-worth-the-investment {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-LightItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: italic;
+  position: absolute;
+  left: 222px;
+  top: 2346px;
+  width: 1049px;
+}
+.mini-spark2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-BlackItalic", sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  font-style: italic;
+  position: absolute;
+  left: 975px;
+  top: 5778px;
+}
+.rectangle-56 {
+  background: #000000;
+  border-radius: 30px;
+  width: 86px;
+  height: 33px;
+  position: absolute;
+  left: 973px;
+  top: 6054px;
+}
+.rectangle-57 {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.5px;
+  width: 85px;
+  height: 33px;
+  position: absolute;
+  left: 1073px;
+  top: 6054px;
+}
+.gold {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 994px;
+  top: 6059px;
+  width: 53px;
+  height: 16px;
+}
+.silver {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1089px;
+  top: 6059px;
+  width: 53px;
+  height: 16px;
+}
+.rectangle-59 {
+  background: rgba(231, 213, 250, 0.43);
+  border-radius: 10px;
+  width: 285px;
+  height: 42px;
+  position: absolute;
+  left: 974px;
+  top: 6171px;
+}
+.rectangle-60 {
+  background: rgba(231, 213, 250, 0.69);
+  width: 1440px;
+  height: 953px;
+  position: absolute;
+  left: -1px;
+  top: 6695px;
+}
+.vector2 {
+  opacity: 0;
+  height: auto;
+  position: absolute;
+  right: 3.19%;
+  left: 94.38%;
+  width: 2.43%;
+  bottom: 97.9%;
+  top: 1.64%;
+  height: 0.46%;
+  overflow: visible;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 3.46%;
+  left: 94.58%;
+  width: 1.96%;
+  bottom: 97.96%;
+  top: 1.7%;
+  height: 0.34%;
+  overflow: visible;
+}
+.emoji-gem-stone {
+  height: auto;
+  position: absolute;
+  right: 37.29%;
+  left: 60.07%;
+  width: 2.64%;
+  bottom: 87.32%;
+  top: 12.19%;
+  height: 0.5%;
+  overflow: visible;
+}
+.rectangle-62 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 129px;
+  height: 50px;
+  position: absolute;
+  left: 34px;
+  top: 7368px;
+}
+.rs-699-00-tax-included-color {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  position: absolute;
+  left: 973px;
+  top: 5918px;
+}
+.view-full-details {
+  color: #a675d9;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 981px;
+  top: 6241px;
+}
+.arabica-studs {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  position: absolute;
+  left: 973px;
+  top: 5837px;
+}
+.icon-arrow-forward-outline {
+  position: absolute;
+  inset: 0;
+}
+
+
+.vector18 {
+  height: auto;
+  position: absolute;
+  right: 22.5%;
+  left: 76.39%;
+  bottom: 15.94%;
+  top: 83.93%;
+  width: 1.11%;
+  height: 0.14%;
+  overflow: visible;
+}
+
+.icon-shield-tick {
+.fa-sharp.fa-light.fa-water 
+ 
+  width: 59.4px;
+  height: 56.55px;
+  position: absolute;
+  left: 244.6px;
+  top: 6486.45px;
+  overflow: visible;
+}
+
+.icon-clean-water {
+  color: #B197FC;
+  width: 59.45px;
+  height: 60px;
+  position: absolute;
+  left: 544.55px;
+  top: 6483px;
+  overflow: visible;
+}
+
+.icon-giftbox {
+  width: 60.57px;
+  height: 53.51px;
+  position: absolute;
+  right: 37.22%;
+  left: 58.58%;
+  bottom: 12.17%;
+  top: 87.11%;
+  width: 4.21%;
+  height: 0.72%;
+  overflow: visible;
+}
+
+.icon-star-1 {
+  width: 54.8px;
+  height: 46.61px;
+  position: absolute;
+  right: 15.18%;
+  left: 81.02%;
+  bottom: 12.19%;
+  top: 87.18%;
+  width: 3.81%;
+  height: 0.63%;
+  overflow: visible;
+}
+
+.long-lasting-jewelry {
+  color: rgba(166, 117, 217, 0.7);
+  text-align: left;
+  font-family: "Inter-BlackItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  font-style: italic;
+  position: absolute;
+  left: 160px;
+  top: 6578px;
+  width: 288px;
+  height: 25px;
+}
+
+.waterproof {
+  color: rgba(166, 117, 217, 0.67);
+  text-align: left;
+  font-family: "Inter-BlackItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  font-style: italic;
+  position: absolute;
+  left: 511px;
+  top: 6578px;
+  width: 185px;
+  height: 25px;
+}
+
+.free-gift-box-on-orders-above-2999 {
+  color: rgba(166, 117, 217, 0.58);
+  text-align: center;
+  font-family: "Inter-BlackItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  font-style: italic;
+  position: absolute;
+  left: 708px;
+  top: 6578px;
+  width: 340px;
+  height: 50px;
+}
+
+.inr {
+  color: #7b7680;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 81px;
+  top: 7378px;
+  width: 53px;
+  height: 30px;
+}
+
+._1500-reviews {
+  color: rgba(166, 117, 217, 0.76);
+  text-align: left;
+  font-family: "Inter-BlackItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  font-style: italic;
+  position: absolute;
+  left: 1108px;
+  top: 6578px;
+  width: 233px;
+  height: 25px;
+}
+
+.arrow-1 {
+  width: 38px;
+  height: 0px;
+  position: absolute;
+  left: 556px;
+  top: 7070px;
+  overflow: visible;
+}
+
+.about-care-guide-faqs-privacy-policy-returns-refunds {
+  color: #7b7680;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 267px;
+  top: 6752px;
+}
+
+.email {
+  color: #7b7680;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 153px;
+  top: 7056px;
+  width: 96px;
+  height: 28px;
+}
+
+.rectangle-61 {
+  background: #faeeee;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.3px;
+  width: 523px;
+  height: 68px;
+  position: absolute;
+  left: 121px;
+  top: 7037px;
+}
+
+.icon-arrow-down-1 {
+  height: auto;
+  position: absolute;
+  right: 89.72%;
+  left: 9.03%;
+  width: 1.25%;
+  bottom: 0.59%;
+  top: 99.27%;
+  height: 0.13%;
+  overflow: visible;
+}
+
+.icon-rupee-sign {
+  height: auto;
+  position: absolute;
+  right: 95.21%;
+  left: 3.89%;
+  width: 0.9%;
+  bottom: 0.55%;
+  top: 99.21%;
+  height: 0.24%;
+  overflow: visible;
+}
+
+.icon-instagram-icon {
+  height: auto;
+  position: absolute;
+  right: 10.72%;
+  left: 87.08%;
+  width: 2.2%;
+  bottom: 0.5%;
+  top: 99.09%;
+  height: 0.41%;
+  overflow: visible;
+}
+
+._2023-mini-spark {
+  color: #7b7680;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 209px;
+  top: 7393px;
+}
+
+.icon-facebook-square-icon {
+  height: auto;
+  position: absolute;
+  right: 7.34%;
+  left: 90.56%;
+  width: 2.1%;
+  bottom: 0.52%;
+  top: 99.09%;
+  height: 0.39%;
+  overflow: visible;
+}
+
+.subscribe-to-receive-updates-on-new-releases-and-exclusive-discounts {
+  color: #7b7680;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 121px;
+  top: 6983px;
+}
+
+.vector45 {
+  height: auto;
+  position: absolute;
+  right: 4.35%;
+  left: 93.92%;
+  width: 1.73%;
+  bottom: 0.52%;
+  top: 99.07%;
+  height: 0.41%;
+  overflow: visible;
+}
+
+.rewards-referral-program-shipping-policy-size-guide-terms-contact-us {
+  color: #7b7680;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 121px;
+  top: 6850px;
+}
