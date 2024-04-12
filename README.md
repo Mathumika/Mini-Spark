@@ -1,1 +1,1 @@
-Mini-Spark- https://splendid-raindrop-77185b.netlify.app
+Mini-Spark- https://genuine-melomakarona-3a8872.netlify.app
